@@ -1,0 +1,19 @@
+
+
+.avatar-section {
+
+  padding: 10px;
+  margin: 20px;
+}
+
+
+.text-active {
+  background: linear-gradient(90deg, #5cc3fa 0%, #9e6ee6 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
+
+.text-inactive {
+  color: #64748b; 
+}

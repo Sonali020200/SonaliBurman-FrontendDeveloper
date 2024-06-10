@@ -1,0 +1,133 @@
+
+
+.figma-app {
+  font-family: outfit;
+  color: white;
+  background: linear-gradient(10deg, rgb(24, 22, 22), rgb(26, 26, 60), black);
+  overflow: hidden;
+  
+}
+
+.footer {
+  color: white;
+  width: auto;
+  max-width: 1586px;
+  margin: auto;
+  margin-top: 250px;
+  padding: 124.5px 64px;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(92, 195, 250, 0.28) 0%, rgba(92, 195, 250, 0) 100%);
+
+}
+.footer>div:nth-of-type(1){
+  display: flex;
+ justify-content: center;
+ align-items: center;
+flex-wrap: wrap;
+}
+.footer>div:nth-of-type(1)>div{
+  width: 835px;
+ 
+}
+
+.footer>div:nth-of-type(1)>div>span{
+  font-family: Outfit;
+font-size: 24px;
+font-weight: 400;
+line-height: 30.24px;
+
+background: radial-gradient(70.54% 70.54% at 50% 50%, #FFFFFF 0%, rgba(255, 255, 255, 0.573) 92.71%, rgba(255, 255, 255, 0.6) 92.72%);
+background-clip: text;
+color: transparent;
+margin-left: 640px;
+right: 0px;
+}
+
+.footer>div>p{
+  font-family: Outfit;
+font-size: 29px;
+font-weight: 400;
+line-height: 42px;
+text-align: left;
+background: radial-gradient(61.42% 1213.78% at 18.1% 57.03%, #FFFFFF 0%, rgba(255, 255, 255, 0.6) 100%);
+background-clip: text;
+color: transparent;
+width: 477px;
+}
+.footer-1>div>div>button{
+  font-family: Outfit;
+font-size: 24px;
+font-weight: 600;
+line-height: 24px;
+text-align: center;
+padding: 19px 35px 21px 35px;
+background: linear-gradient(180deg, #C85EC7 0%, #7F59B8 100%);
+border-radius: 8px;
+border: none;
+color: white;
+}
+.footer-1>div>div{
+  margin-left: 344px;
+}
+.footer-1>div{
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.input-div{
+  
+  display: flex;
+  gap: 9px;
+}
+.footer-1>div>div>input{
+padding:16px 172px 18px 24px;
+background: #FFFFFF0D;
+border: 2px solid #FFFFFF;
+border-radius: 8px;
+
+}
+input::placeholder{
+  font-family: Outfit;
+font-size: 24px;
+font-weight: 400;
+line-height: 30.24px;
+text-align: left;
+
+}
+.footer-2{
+  margin-top: 33.5px;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.footer-2>h3{
+  font-family: Outfit;
+  
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 25.2px;
+  letter-spacing: 0.5em;
+  text-align: left;
+  color: #FFFFFF;
+
+}
+.footer-2>div{
+  display: flex;
+  gap: 48px;
+}
+@media (max-width: 650px) {
+  nav ul{
+    display: none;
+  }
+  .buttons button:nth-of-type(1){
+    display: none;
+  }
+  .buttons button:nth-of-type(2){
+    display: none;
+  }
+  .buttons>span{
+    display: block;
+  }
+  .hero-div2{
+    display: none;
+  }
+}
