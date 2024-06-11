@@ -1,6 +1,6 @@
 
 import Donut from '../../src/assets/Donut.png'
-import '../styles/Tokenomics.css'
+
 
 
 const Tokenomics = () => {
