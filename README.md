@@ -15,7 +15,7 @@ This repository contains the implementation of the AI.Gen platform's landing pag
 
 ## Live Demo
 
-Check out the live demo [here](https://example.com/live-demo).
+Check out the live demo [here](https://sonali-burman-frontend-developer.vercel.app/).
 
 ## Sections
 
