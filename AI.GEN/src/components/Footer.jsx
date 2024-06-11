@@ -7,7 +7,7 @@ import "../styles/footer.css";
 const Footer = () => {
   return (
     <div
-    className="footer-section min-h-screen flex flex-col"
+    className="footer-section max-h-screen flex flex-col"
     data-aos="fade-up"
   >
     

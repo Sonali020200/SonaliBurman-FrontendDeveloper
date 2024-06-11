@@ -1,6 +1,8 @@
 .footer-section{
     
     background: radial-gradient(50% 50% at 50% 50%, rgba(92, 195, 250, 0.28) 0%, rgba(92, 195, 250, 0) 100%);
+   
+
 
 }
 
@@ -13,10 +15,11 @@
  
 
 .footer-middle{
-    margin-bottom: 80px;
+    margin-bottom: 50px;
 }
 .footer-bottom{
     border-top:1px solid white ;
     margin-left: 4%;
     margin-right: 4%;
+    
 }
