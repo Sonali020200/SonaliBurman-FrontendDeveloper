@@ -1,7 +1,7 @@
-import '../styles/textSection.css';
+import '../styles/HeroSection.css';
 import { useEffect, useRef } from 'react';
 
-export const TextSection = () => {
+export const HeroSection = () => {
   const textRef = useRef(null);
 
   useEffect(() => {

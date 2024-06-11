@@ -2,13 +2,12 @@ import twitter from '../assets/twitter.png'
 import linkedin from '../assets/linkedin.png'
 import music from '../assets/music.png'
 import youtube from '../assets/youtube.png'
-import "../styles/footer.css";
+import "../styles/Footer.css";
 
 const Footer = () => {
   return (
     <div
     className="footer-section max-h-screen flex flex-col"
-    data-aos="fade-up"
   >
     
     <div className="footer-middle flex flex-col md:flex-row justify-between items-center p-5 md:p-20 md:mt-32 ">

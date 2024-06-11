@@ -1,6 +1,6 @@
 import Holder from '../../src/assets/Holder.png'
 import Donut from '../../src/assets/Donut.png'
-import '../styles/tokenomics.css'
+import '../styles/Tokenomics.css'
 
 
 const Tokenomics = () => {

@@ -1,7 +1,7 @@
-import '../styles/technologies.css';
+import '../styles/AI.Items.css';
 
 
-export const TechTools = () => {
+export const AIItems = () => {
     return (
       <div className="py-20 overflow-hidden">
         <div className="flex md:gap-6 gap-3 justify-center items-center animate-left-right">

@@ -17,9 +17,9 @@
   }
 
   .animate-left-right {
-    animation: left-right 4s infinite;
+    animation: left-right 5s infinite;
   }
 
   .animate-right-left {
-    animation: right-left 4s infinite;
+    animation: right-left 5s infinite;
   }

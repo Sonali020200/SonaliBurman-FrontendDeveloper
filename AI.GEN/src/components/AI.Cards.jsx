@@ -4,7 +4,7 @@ import keyBoard from '../../src/assets/ai.keyboard.png'
 import detailsPic from '../../src/assets/ai.details.png'
 
 
-export const ItemSection = () => {
+export const AICards = () => {
   return (
     <div className="">
       <div className="relative top-[10%] w-full">

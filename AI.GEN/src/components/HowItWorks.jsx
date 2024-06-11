@@ -1,8 +1,8 @@
 import { useEffect } from "react";
 import avatar from "../../src/assets/Avatar.png";
-import '../styles/avatar.css';
+import '../styles/HowItWorks.css';
 
-export const Avatar = () => {
+export const HowItWorks = () => {
     useEffect(() => {
       const paragraphs = document.querySelectorAll(".animated-paragraph");
       let current = 0;
