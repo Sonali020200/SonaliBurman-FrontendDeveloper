@@ -4,8 +4,14 @@ This repository contains the implementation of the AI.Gen platform's landing pag
 
 ## Preview
 
-![Preview Image 1](path/to/preview-image1.png)
-![Preview Image 2](path/to/preview-image2.png)
+**Desktop view**
+
+![Preview Image 1](/AI.GEN/src/assets/preview1.png)
+
+**Mobile view**
+
+
+
 
 ## Live Demo
 
