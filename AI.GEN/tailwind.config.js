@@ -22,10 +22,22 @@ export default {
           '0%, 100%': { transform: 'translateX(0)' },
           '50%': { transform: 'translateX(-50px)' },
         },
+        moveUpDown: {
+          '0%, 100%': { transform: 'translateY(0)' },
+          '50%': { transform: 'translateY(-20px)' },
+        },
+        moveDownUp: {
+          '0%, 100%': { transform: 'translateY(0)' },
+          '50%': { transform: 'translateY(20px)' },
+        },
       },
       animation: {
         'left-right': 'left-right 5s infinite',
         'right-left': 'right-left 5s infinite',
+      },
+      animation2: {
+        'up-down': 'moveUpDown 3s ease-in-out infinite',
+        'down-up': 'moveDownUp 3s ease-in-out infinite',
       },
 
     },

@@ -8,6 +8,7 @@ import biden from '../../src/assets/biden.png';
 import albertEintein from '../../src/assets/albert einstein.png';
 import barakObama from '../../src/assets/obama.png';
 
+
 export const Header = () => {
   return (
     <div className="mx-auto w-full relative overflow-hidden bg-gradient-to-b from-black via-black to-[#09012a] to-70%">
@@ -28,7 +29,7 @@ export const Header = () => {
           </button>
         </header>
         <aside className="hidden md:flex absolute md:relative top-[-30px] right-[-90px] gap-12">
-          <div className="flex flex-col gap-10 img-animate-up-down">
+          <div className="flex flex-col gap-10 img-animate-up-down animation2-up-down ">
             <img
               src={elonMusk}
               alt="elonMusk"
@@ -37,7 +38,7 @@ export const Header = () => {
             <img
               src={billGates}
               alt="billGates"
-              className="w-44 h-44 object-cover rounded-xl"
+              className=" w-44 h-44 object-cover rounded-xl"
             />
             <img
               src={timCook}
@@ -45,7 +46,7 @@ export const Header = () => {
               className="w-44 h-44 object-cover rounded-xl"
             />
           </div>
-          <div className="relative bottom-20 flex flex-col gap-10 img-animate-down-up">
+          <div className="relative bottom-20 flex flex-col gap-10 img-animate-down-up animation2-down-up">
             <img
               src={trump}
               alt="trump"
@@ -62,7 +63,7 @@ export const Header = () => {
               className="w-44 h-44 object-cover rounded-xl"
             />
           </div>
-          <div className="flex flex-col gap-10 img-animate-up-down">
+          <div className="flex flex-col gap-10 img-animate-up-down animation2-up-down">
             <img
               src={biden}
               alt="biden"

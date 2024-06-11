@@ -62,11 +62,11 @@ nav {
 }
 
 .img-animate-up-down {
-  animation: moveUpDown 3s ease-in-out infinite;
+  animation: moveUpDown 2s ease-in-out infinite;
 }
 
 .img-animate-down-up {
-  animation: moveDownUp 3s ease-in-out infinite;
+  animation: moveDownUp 2s ease-in-out infinite;
 }
 
 

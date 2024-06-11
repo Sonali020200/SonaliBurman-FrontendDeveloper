@@ -1,5 +1,5 @@
 
-import { Navbar } from './components/Navbar';
+import {Navbar} from './components/Navbar'
 import { Header } from './components/Header'
 import {HowItWorks} from './components/HowItWorks'
 import { AIItems } from './components/AI.Items'
