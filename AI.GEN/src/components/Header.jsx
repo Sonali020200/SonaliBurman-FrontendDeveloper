@@ -7,7 +7,7 @@ import vitalikBitcoin from '../../src/assets/vitalik bitcoin.png';
 import biden from '../../src/assets/biden.png';
 import albertEintein from '../../src/assets/albert einstein.png';
 import barakObama from '../../src/assets/obama.png';
-import '../styles/Navbar.css';
+import '../styles/navbar.css';
 
 export const Header = () => {
   return (
