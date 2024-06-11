@@ -1,4 +1,4 @@
-// import { useEffect } from "react";
+
 import avatar from "../../src/assets/Avatar.png";
 import '../styles/HowItWorks.css';
 
