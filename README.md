@@ -10,7 +10,7 @@ This repository contains the implementation of the AI.Gen platform's landing pag
 
 **Mobile view**
 
-
+[preview2.webm](https://github.com/Sonali020200/SonaliBurman-FrontendDeveloper/assets/147674653/cfa33b2b-04bb-4dce-b980-00b31542cac1)
 
 
 ## Live Demo
