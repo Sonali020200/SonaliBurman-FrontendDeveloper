@@ -17,31 +17,6 @@ This repository contains the implementation of the AI.Gen platform's landing pag
 
 Check out the live demo [here](https://sonali-burman-frontend-developer.vercel.app/).
 
-## Sections
-
-### Navbar
-The navigation bar ensures easy access to various sections of the landing page.
-
-### Hero Section
-A captivating hero section introduces the AI.Gen platform to visitors.
-
-### Introduction Section
-This part offers a succinct overview of AI.Gen and its objectives.
-
-### How It Works
-Provides detailed information on the operational mechanics of the platform.
-
-### Keywords Carousel
-A dynamic carousel highlighting key terms associated with AI.Gen.
-
-### Tokenomics
-An explanation of the platform's economic model.
-
-### Roadmap
-A timeline outlining AI.Gen's development milestones and future plans.
-
-### Footer
-The footer includes additional links and information for users.
 
 ## Features
 
@@ -74,7 +49,7 @@ Creates an intuitive user experience with interactive elements and straightforwa
 
 ```bash
 git clone https://github.com/Sonali020200/SonaliBurman-FrontendDeveloper.git
-cd AI.Gen
+cd AI.GEN
 npm install
 ```
 
