@@ -7,20 +7,19 @@ import vitalikBitcoin from '../../src/assets/vitalik bitcoin.png';
 import biden from '../../src/assets/biden.png';
 import albertEintein from '../../src/assets/albert einstein.png';
 import barakObama from '../../src/assets/obama.png';
-import '../styles/navbar.css';
 
 export const Header = () => {
   return (
-    <div className="mx-auto w-full relative overflow-hidden header">
+    <div className="mx-auto w-full relative overflow-hidden bg-gradient-to-b from-black via-black to-[#09012a] to-70%">
       <div className="md:flex p-10 mt-20 ">
         <header className="md:w-[50%] md:ml-40 mt-20">
           <button className="btn0 border px-2 py-1 text-sm rounded-lg bg-slate-900 border-slate-400">
             🎉 New in AI.GEN: Real Time Interaction
           </button>
-          <h1 className="btn-h1 text-5xl mt-10">
+          <h1 className="btn-h1 text-5xl mt-10 text-white">
             IOTA polygon serum ipsum WAX terraUSD gala THETA.
           </h1>
-          <p className="btn-p text-md mt-8">
+          <p className="btn-p text-md mt-8 text-gray-300">
             Chiliz serum TRON dash aave cardano crypto celo. Golem ankr bancor
             horizen ethereum quant bitcoin.
           </p>
