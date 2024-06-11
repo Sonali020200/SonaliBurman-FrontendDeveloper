@@ -1,6 +1,4 @@
-
 import Donut from '../../src/assets/Donut.png'
-
 
 
 const Tokenomics = () => {

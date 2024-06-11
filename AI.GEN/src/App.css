@@ -1,9 +1,9 @@
 
 
 .AIGEN {
-  font-family: outfit;
   color: white;
-  background: linear-gradient(10deg, rgb(24, 22, 22), rgb(26, 26, 60), black);
   overflow: hidden;
+  font-family: outfit;
+  background: linear-gradient(10deg, rgb(24, 22, 22), rgb(26, 26, 60), black);
   
 }
