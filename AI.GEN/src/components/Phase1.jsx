@@ -20,10 +20,10 @@ export const Phase1 = () => {
         current = (current + 1) % paragraphs.length;
       };
   
-      updateParagraphs(); // Initial animation
+      updateParagraphs(); 
       const interval = setInterval(updateParagraphs, 1000);
   
-      return () => clearInterval(interval); // Cleanup interval on component unmount
+      return () => clearInterval(interval); 
     }, []);
   
     return (
