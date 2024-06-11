@@ -70,10 +70,19 @@ Creates an intuitive user experience with interactive elements and straightforwa
 
 ## Getting Started
 
-To get started with the project, clone the repository and install the necessary dependencies:
+**To get started with the project, clone the repository and install the necessary dependencies:**
 
 ```bash
 git clone https://github.com/Sonali020200/SonaliBurman-FrontendDeveloper.git
 cd AI.Gen
 npm install
 ```
+
+**To run the application locally:**
+
+```bash
+npm run dev
+```
+
+## Contribution
+Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
