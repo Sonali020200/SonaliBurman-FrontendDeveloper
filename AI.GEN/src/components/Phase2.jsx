@@ -39,7 +39,7 @@ export const Phase2 = () => {
             </ul>
         </div>
         </div>
-        <div className="map-img1 md:w-[60%] md:rounded-r-lg rounded-lg overflow-hidden">
+        <div className="map-img1 mt-20 md:w-[60%] md:rounded-r-lg rounded-lg overflow-hidden">
           <img src={phase2} alt="phase2-ai" className="move-left-right overflow-hidden" />
         </div>
 
