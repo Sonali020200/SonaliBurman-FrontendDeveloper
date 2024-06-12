@@ -53,3 +53,17 @@ gap: 8px;
 color: rgba(255, 255, 255, 0.8);
 ;    
   }
+
+  @keyframes move-left-right {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+  
+}
+
+.move-left-right {
+  animation: move-left-right 2s ease-in-out infinite ;
+}

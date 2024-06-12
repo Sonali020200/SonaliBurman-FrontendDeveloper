@@ -8,3 +8,17 @@
 .text-inactive {
   color: #64748b; 
 }
+
+@keyframes move-right-left {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+  
+}
+
+.move-right-left {
+  animation: move-right-left 2s ease-in-out infinite;
+}
