@@ -4,7 +4,7 @@ import Donut from '../../src/assets/Donut.png'
 const Tokenomics = () => {
   return (
     <div>
-            <h1 className='bg-gradient-to-r from-[#FA75F8] to-[#9E6EE6] bg-clip-text text-transparent font-semibold text-5xl text-center mt-28 mb-12 lg:mb-28'>Tokenomics</h1>
+            <h1 className='img-animate-up-down animation2-up-down bg-gradient-to-r from-[#FA75F8] to-[#9E6EE6] bg-clip-text text-transparent font-semibold text-5xl text-center mt-28 mb-12 lg:mb-28'>Tokenomics</h1>
             <div className='flex justify-center mb-12'>
                 <div className='grid grid-cols-2 mx-8 lg:gap-x-40 lg:ml-44'>
                     <div className='py-2 lg:text-xl text-xs flex gap-1 lg:gap-8 m-2'>

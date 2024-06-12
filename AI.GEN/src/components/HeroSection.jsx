@@ -26,7 +26,7 @@ export const HeroSection = () => {
     <section className="hero2">
       <div className="hero2-first">
         <div ref={textRef}>
-          <h2><span>Create, customize, and publish</span> your digital persona to life effortlessly.</h2>
+          <h2 className='img-animate-down-up animation2-down-up'><span>Create, customize, and publish</span> your digital persona to life effortlessly.</h2>
         </div>
       </div>
     </section>

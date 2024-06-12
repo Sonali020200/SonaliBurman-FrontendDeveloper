@@ -14,14 +14,14 @@ export const AICards = () => {
             width={400}
             height={500}
             alt="...img"
-            className="w-[28%] rounded-lg transform transition-transform duration-300 hover:scale-110"
+            className="w-[28%] rounded-lg img-animate-down-up animation2-down-up transform transition-transform duration-300 hover:scale-110"
           />
           <img
             src={girlPic}
             width={600}
             height={300}
             alt="...img"
-            className="w-[40%] rounded-lg transform transition-transform duration-300 hover:scale-110"
+            className="w-[40%] img-animate-up-down animation2-up-down rounded-lg transform transition-transform duration-300 hover:scale-110"
           />
         </div>
         <div className="relative top-[20%] my-[3%] w-full h-[30%] flex justify-center items-center gap-12">
@@ -30,14 +30,14 @@ export const AICards = () => {
             width={600}
             height={300}
             alt="...img"
-            className="w-[40%] rounded-lg transform transition-transform duration-300 hover:scale-110"
+            className="img-animate-down-up animation2-down-up w-[40%] rounded-lg transform transition-transform duration-300 hover:scale-110"
           />
           <img
             src={detailsPic}
             width={400}
             height={500}
             alt="...img"
-            className="w-[28%] rounded-lg transform transition-transform duration-300 hover:scale-110"
+            className="img-animate-up-down animation2-up-down w-[28%] rounded-lg transform transition-transform duration-300 hover:scale-110"
           />
         </div>
       </div>

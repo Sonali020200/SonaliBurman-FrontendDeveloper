@@ -19,7 +19,7 @@ const Footer = () => {
               placeholder="Enter Your Name"
               className="border-2 border-white bg-transparent rounded-lg w-full md:w-96 p-3 md:p-5 text-lg md:h-16 md:text-2xl"
             />
-            <button className="bg-gradient-to-r from-violet-500 to-fuchsia-500 w-full md:w-40 h-14 md:h-16 rounded-lg text-white text-lg md:text-2xl">
+            <button className="bg-gradient-to-r from-violet-500 to-fuchsia-500 blink-text w-full md:w-40 h-14 md:h-16 rounded-lg text-white text-lg md:text-2xl">
               Submit
             </button>
           </div>

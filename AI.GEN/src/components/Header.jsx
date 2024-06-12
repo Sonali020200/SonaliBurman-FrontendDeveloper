@@ -25,7 +25,7 @@ export const Header = () => {
             Chiliz serum TRON dash aave cardano crypto celo. Golem ankr bancor
             horizen ethereum quant bitcoin.
           </p>
-          <button className="bg-gradient-to-r from-indigo-500 to-pink-500 rounded-md py-4 px-8 border-0 mt-9">
+          <button className="bg-gradient-to-r from-indigo-500 to-pink-500 rounded-md blink-text py-4 px-8 border-0 mt-9">
             Get Started
           </button>
         </header>

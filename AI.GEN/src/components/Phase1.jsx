@@ -28,7 +28,7 @@ export const Phase1 = () => {
   
     return (
       <div  className=' min-h-screen flex flex-col items-center justify-center'>
-      <h1 className='roadmap01-h1 text-white text-5xl sm:text-4xl md:text-5xl  mb-6'>Roadmap</h1>
+      <h1 className='roadmap01-h1 img-animate-up-down animation2-up-down text-white text-5xl sm:text-4xl md:text-5xl  mb-6'>Roadmap</h1>
       <div className="roadMap-section md:flex justify-center items-center gap-10 relative">
         <div className="roadMap-section-para">
           <h1 className="roadmap01-h2 text-white text-3xl sm:text-4xl md:text-5xl head-gradient mb-8">PHASE 1</h1> 
