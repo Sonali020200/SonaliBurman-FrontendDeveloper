@@ -13,8 +13,15 @@ nav {
    top:0
 }
 
+.blink-text {
+  animation: blinker 2s linear infinite;
+}
 
-
+@keyframes blinker {
+  50% {
+    opacity: 0.5;
+  }
+}
 
 
 .btn0 {
@@ -39,7 +46,27 @@ nav {
   text-align: left;
 }
 
+.bluring {
+  animation: bluring 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both ;
+  
+}
 
+
+
+@keyframes bluring {
+  0% {
+    transform: translateX(50px);
+    letter-spacing: 0.2em;
+    opacity: 0.5;
+    filter: blur(5px);
+  }
+
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+    filter: blur(0px);
+  }
+}
 
 @keyframes moveUpDown {
   0%,
